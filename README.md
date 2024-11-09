@@ -12,7 +12,6 @@ The **Employee Management System** is a Java-based application designed to manag
 - **Update Employee**: Allows the user to edit existing employee details.
 - **Delete Employee**: Allows the user to remove employee records.
 - **View Employees**: Displays a list of all employees with basic details.
-- **Search Employees**: Provides the ability to search for employees by name, ID, or department.
 - **Filter Employees**: Enables filtering of employee records based on job role, department, and more.
 - **Pagination**: Displays employee records in a paginated format for easier browsing.
 
